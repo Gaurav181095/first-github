@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is another commit!
+=======
+This is my second commit!
+>>>>>>> feature
 
 this is second message!
